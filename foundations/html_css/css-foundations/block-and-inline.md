@@ -81,7 +81,7 @@ The following questions are an opportunity to reflect on key topics in this less
 
 ### Additional resources
 
-This section contains helpful links to related content. It isn't required, so consider it supplemental.
+This section contains additional resources that may deepen your understanding of block and inline elements. These resources are optional but valuable for expanding your knowledge.
 
 - [Learn CSS Layout](https://learnlayout.com/no-layout.html) is a tutorial that is a little dated at this point, but its examples are clear. The first 6 slides cover the material we've seen so far.
 - Watch this short video on [what the term “Normal Flow” means](https://www.youtube.com/watch?v=nfXRw06FgK8) in CSS.
